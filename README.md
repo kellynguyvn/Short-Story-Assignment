@@ -11,6 +11,9 @@ This articles summarizes the methodologies and findings of the paper, while prov
 ### Slide Show Presentation
 [Slideshare Link](https://www.slideshare.net/kellynguyen01/short-story-assignment-by-kelly-nguyen)
 <img width="1166" alt="Screenshot 2023-11-27 at 5 29 42 PM" src="https://github.com/kellynguyvn/Short-Story-Assignment/assets/80297074/7d9f0561-93c4-4003-b960-7f2c5d4bab5c">
+### Presentation Video
+https://github.com/kellynguyvn/Short-Story-Assignment/assets/80297074/7fb0a771-0ff5-452a-89de-a462e2e1d33b
+
 
 ## References
 [1] [Elhussein, A., & Gursoy, G. (2023). Privacy-preserving patient clustering for personalized federated learning. Proceedings of Machine Learning Research, 219, 1–23. Machine Learning for Healthcare 2023​​.](https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/64d19abea2b49a1621636ae6/1691458239171/ID38_Research+Paper_2023.pdf)
