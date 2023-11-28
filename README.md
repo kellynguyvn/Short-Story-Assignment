@@ -1,1 +1,1 @@
-# Short-Story-Assignment
+# Short Story Assignment
